@@ -1,0 +1,6 @@
+@DaDataAddressApiFinal_HostAddress = http://localhost:7216
+
+GET {{DaDataAddressApiFinal_HostAddress}}/api/swagger/
+Accept: application/json
+
+###
